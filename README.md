@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hélder Josué</h1>
-<h3 align="center">A passionate Backend Developer from Mozambique</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=HI%2C+I'M+H%C3%89LDER+JOSU%C3%89!)](https://git.io/typing-svg)
+<h2 align="left">A passionate Backend Developer from Mozambique</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helderjosue&label=Profile%20views&color=0e75b6&style=flat" alt="helderjosue" /> </p>
 
