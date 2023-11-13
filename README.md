@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **PHP Yii framework, Vuejs and Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [helderjosue-portfolio.herokuapp.com/](helderjosue-portfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [[https://helderjosue.github.io/](https://helderjosue.github.io/)]
 
 - 💬 Ask me about **PHP, MYSQL, etc.**
 
 - 📫 How to reach me **helderjosuemata@gmail.com**
 
-- 📄 Know about my experiences [helderjosue-portfolio.herokuapp.com/docs/cv.pdf](helderjosue-portfolio.herokuapp.com/docs/cv.pdf)
+- 📄 Know about my experiences [https://helderjosue.github.io/assests/docs/helderjosue-cv-pt.pdf](https://helderjosue.github.io/assests/docs/helderjosue-cv-pt.pdf)
 
 - ⚡ Fun fact **I think I'm a funny guy!**
 
